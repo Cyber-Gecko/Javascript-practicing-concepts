@@ -5,9 +5,16 @@
 
 "use strict"; 
 
+
 // let score = "33"
 // let conversionToNumber = Number(score) //* a string is converted to a number due to the converter class we used :   Number => name of data type with capital first letter (you can use other datatypes names as converters)
 // console.log(typeof(conversionToNumber)); 
+
+// let string = "my name is ihtesham"
+// let number = Number(string)
+// console.log(typeof number);
+// console.log(number);
+
 
 
 // let score = "33abc"  //* it a string type but the string is not in the form of number but when we convert it to number it is converted to a number 
@@ -28,6 +35,10 @@
 // console.log(statusinbool);
 
 //*   1 => true     0 => false    "" => false  "ihtesham" => true
+
+
+//& --------------------------------------------------operations-------------------------------------------------------
+
 
 
  
